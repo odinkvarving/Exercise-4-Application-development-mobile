@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">fragments</string>
+    <string name="Insomnia">Insomnia</string>
+    <string name="Batman_begins">Batman Begins</string>
+    <string name="The_prestige">The Prestige</string>
+    <string name="The_dark_knight">The Dark Knight</string>
+    <string name="Inception">Inception</string>
+    <string name="Insomnia_desc">Two Los Angeles homicide detectives are dispatched to a northern town where the sun does not set to investigate the methodical murder of a local teen.</string>
+    <string name="Batman_begins_desc">After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption. After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption.</string>
+    <string name="The_prestige_desc">The Prestige is an intricate tale of obsession, jealousy and deception. A mysterious story of two magicians, whose intense rivalry leads them on a life-long battle for supremacy, full of obsession, deceit, and jealousy, with dangerous and deadly consequences.</string>
+    <string name="The_dark_knight_desc">A gang of criminals rob a Gotham City mob bank; the Joker manipulates them into murdering each other for a higher share until only he remains, escaping with the money. Batman, District Attorney Harvey Dent and Lieutenant Jim Gordon form an alliance to rid Gotham of organized crime.</string>
+    <string name="Inception_desc">The film stars Leonardo DiCaprio as a professional thief who steals information by infiltrating the subconscious of his targets. He is offered a chance to have his criminal history erased as payment for the implantation of another persons idea into a targets subconscious.</string>
+    <string name="click_info">Klikk på en av filmene i listen</string>
+    <string name="previous">previous</string>
+    <string name="next">next</string>
+
+    <string-array name="movie_titles">
+        <item>@string/Insomnia</item>
+        <item>@string/Batman_begins</item>
+        <item>@string/The_prestige</item>
+        <item>@string/The_dark_knight</item>
+        <item>@string/Inception</item>
+    </string-array>
+
+    <string-array name="movie_descriptions">
+        <item>@string/Insomnia_desc</item>
+        <item>@string/Batman_begins_desc</item>
+        <item>@string/The_prestige_desc</item>
+        <item>@string/The_dark_knight_desc</item>
+        <item>@string/Inception_desc</item>
+    </string-array>
+
+    <array name="images">
+        <item>@drawable/insomnia</item>
+        <item>@drawable/batmanbegins</item>
+        <item>@drawable/theprestige</item>
+        <item>@drawable/thedarkknight</item>
+        <item>@drawable/inception</item>
+    </array>
+
+
+</resources>
